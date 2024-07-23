@@ -1,6 +1,6 @@
-package com.study.springboot.controller;
+package com.juro.scriptapp.controller;
 
-import com.study.springboot.service.scriptService;
+import com.juro.scriptapp.service.scriptService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.web.bind.annotation.*;
 

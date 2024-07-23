@@ -1,4 +1,4 @@
-package com.study.springboot.service.impl;
+package com.juro.scriptapp.service.impl;
 
 import java.util.Map;
 

@@ -1,6 +1,6 @@
-package com.study.springboot.service;
+package com.juro.scriptapp.service;
 
-import com.study.springboot.service.impl.scriptServiceImpl;
+import com.juro.scriptapp.service.impl.scriptServiceImpl;
 import org.springframework.stereotype.Service;
 
 import java.util.HashMap;
