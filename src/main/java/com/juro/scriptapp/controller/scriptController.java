@@ -14,7 +14,7 @@ public class scriptController {
     private static final Logger log = LoggerFactory.getLogger(scriptController.class);
 
     private final scriptService service;
-    @GetMapping("/first")
+    @GetMapping("/server-status")
     public Map<String, Object> getServerStatus(){
         return service.getServerStatus();
     }
